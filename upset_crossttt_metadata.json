@@ -1,0 +1,16 @@
+{
+	"file": "https://raw.githubusercontent.com/micro-bio-info-sarah/Upset_data/master/upset_crossttt_data.csv",
+	"name": "Upset Cross treatments",
+	"header": 0,
+	"separator": ";",
+	"skip": 0,
+	"meta": [
+		{ "type": "id", "index": 0, "name": "OTU" },
+		{ "type": "integer", "index": 17, "name": "ASV total abundance" },
+		{ "type": "float", "index": 18, "name": "ASV total abundance (log10)"},
+		{ "type": "integer", "index": 19, "name": "Prevalence"}
+	],
+	"sets": [
+		{ "format": "binary", "start": 1, "end": 16 }
+	]
+}
