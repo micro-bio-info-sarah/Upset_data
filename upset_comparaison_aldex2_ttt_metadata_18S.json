@@ -7,7 +7,7 @@
 	"meta": [
 		{ "type": "id", "index": 0, "name": "OTU" },
 		{ "type": "integer", "index": 83"name": "ASV total abundance" },
-		{ "type": "float", "index": 84, "name": "ASV total abundance (log10)"},
+		{ "type": "float", "index": 84, "name": "ASV total abundance (log 10)"},
 		{ "type": "integer", "index": 85, "name": "Prevalence"},
 		{ "type": "character", "index": 86, "name": "Kingdom"},
 		{ "type": "character", "index": 87, "name": "Domain"},
