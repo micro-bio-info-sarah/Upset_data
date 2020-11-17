@@ -10,12 +10,13 @@
 		{ "type": "float", "index": 104, "name": "ASV total abundance (log 10)"},
 		{ "type": "integer", "index": 105, "name": "Prevalence"},
 		{ "type": "character", "index": 106, "name": "Kingdom"},
-		{ "type": "character", "index": 107, "name": "Phylum"},
-		{ "type": "character", "index": 108, "name": "Class"},
-		{ "type": "character", "index": 109, "name": "Order"},
-		{ "type": "character", "index": 110, "name": "Family"},
-		{ "type": "character", "index": 111, "name": "Genus"},
-		{ "type": "character", "index": 112, "name": "Species"}
+		{ "type": "character", "index": 107, "name": "Domain"},
+		{ "type": "character", "index": 108, "name": "Phylum"},
+		{ "type": "character", "index": 109, "name": "Class"},
+		{ "type": "character", "index": 110, "name": "Order"},
+		{ "type": "character", "index": 111, "name": "Family"},
+		{ "type": "character", "index": 112, "name": "Genus"},
+		{ "type": "character", "index": 113, "name": "Species"}
 	],
 	"sets": [
 		{ "format": "binary", "start": 1, "end": 102 }
