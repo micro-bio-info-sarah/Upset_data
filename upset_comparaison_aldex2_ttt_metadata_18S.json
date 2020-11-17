@@ -2,7 +2,7 @@
 	"file": "https://raw.githubusercontent.com/micro-bio-info-sarah/Upset_data/master/upset_comparaison_aldex2_ttt_18S.csv",
 	"name": "Upset xp1 18S",
 	"header": 0,
-	"separator": ";",
+	"separator": ",",
 	"skip": 0,
 	"meta": [
 		{ "type": "id", "index": 0, "name": "OTU" },
