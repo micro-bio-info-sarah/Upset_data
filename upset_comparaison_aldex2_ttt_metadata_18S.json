@@ -6,19 +6,19 @@
 	"skip": 0,
 	"meta": [
 		{ "type": "id", "index": 0, "name": "OTU" },
-		{ "type": "integer", "index": 103, "name": "ASV total abundance" },
-		{ "type": "float", "index": 104, "name": "ASV total abundance (log 10)"},
-		{ "type": "integer", "index": 105, "name": "Prevalence"},
-		{ "type": "character", "index": 106, "name": "Kingdom"},
-		{ "type": "character", "index": 107, "name": "Domain"},
-		{ "type": "character", "index": 108, "name": "Phylum"},
-		{ "type": "character", "index": 109, "name": "Class"},
-		{ "type": "character", "index": 110, "name": "Order"},
-		{ "type": "character", "index": 111, "name": "Family"},
-		{ "type": "character", "index": 112, "name": "Genus"},
-		{ "type": "character", "index": 113, "name": "Species"}
+		{ "type": "integer", "index": 131, "name": "ASV total abundance" },
+		{ "type": "float", "index": 132, "name": "ASV total abundance (log 10)"},
+		{ "type": "integer", "index": 133, "name": "Prevalence"},
+		{ "type": "character", "index": 134, "name": "Kingdom"},
+		{ "type": "character", "index": 135, "name": "Domain"},
+		{ "type": "character", "index": 136, "name": "Phylum"},
+		{ "type": "character", "index": 137, "name": "Class"},
+		{ "type": "character", "index": 138, "name": "Order"},
+		{ "type": "character", "index": 139, "name": "Family"},
+		{ "type": "character", "index": 140, "name": "Genus"},
+		{ "type": "character", "index": 141, "name": "Species"}
 	],
 	"sets": [
-		{ "format": "binary", "start": 1, "end": 102 }
+		{ "format": "binary", "start": 1, "end": 130 }
 	]
 }
