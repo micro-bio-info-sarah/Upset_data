@@ -1,6 +1,6 @@
 {
 	"file": "https://raw.githubusercontent.com/micro-bio-info-sarah/Upset_data/master/upset_comparaison_filters_sample_type_metadata.csv",
-	"name": "Upset xp1 Cleaned",
+	"name": "Upset comparaison filter and sample type",
 	"header": 0,
 	"separator": ";",
 	"skip": 0,
@@ -18,6 +18,6 @@
 		{ "type": "character", "index": 15, "name": "Species"}
 	],
 	"sets": [
-		{ "format": "binary", "start": 1, "end": 15}
+		{ "format": "binary", "start": 1, "end": 5}
 	]
 }
