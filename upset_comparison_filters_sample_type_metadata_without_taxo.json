@@ -1,5 +1,5 @@
 {
-	"file": "https://raw.githubusercontent.com/micro-bio-info-sarah/Upset_data/master/upset_comparaison_filters_sample_type_metadata.csv",
+	"file": "https://raw.githubusercontent.com/micro-bio-info-sarah/Upset_data/master/upset_comparaison_filters_sample_type_metadata_without_taxo.csv",
 	"name": "Upset comparaison filter and sample type",
 	"header": 0,
 	"separator": ";",
