@@ -1,6 +1,6 @@
 {
-	"file": "https://raw.githubusercontent.com/micro-bio-info-sarah/Upset_data/Biscal_xp2/upset_comparaison_filters_sample_type_metadata.csv",
-	"name": "Upset comparaison filter and sample type",
+	"file": "https://raw.githubusercontent.com/micro-bio-info-sarah/Upset_data/Biscal_xp2/upset_comparison_treatments_metadata.csv",
+	"name": "Upset comparaison treatments",
 	"header": 0,
 	"separator": ",",
 	"skip": 0,
